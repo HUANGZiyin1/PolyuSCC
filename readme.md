@@ -17,7 +17,7 @@
 
 Please check [here](https://connectpolyu-my.sharepoint.com/:u:/g/personal/20034807r_connect_polyu_hk/Ee-1DvjqK8JFrLSvMzn_KrQBxEilG0PibDiwCs4Kp9ixOA?e=6e80gT).
 
- ## 3. Reference
+ ## 3. References
  
 - [1] Screen Content Sequences Provided by JCT-VC. Available: ftp://mpeg.tnt.uni-hannover.de/testsequences/
 - [2]	S.-H. Tsang, Y.-L. Chan, and W. Kuang, “Mode Skipping for HEVC Screen Content Coding via Random Forest,” IEEE Trans. Multimedia, vol. 21, no. 10, pp. 2433-2446, Oct. 2019.
