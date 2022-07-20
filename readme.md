@@ -10,7 +10,7 @@
   - To enrich the text and graphics with motion content and mixed content sequences, we further capture 14 video sequences by ourselves. 
  
  ## 1. Sequence Dataset
- ![result](https://user-images.githubusercontent.com/34084019/105737588-16006580-5f71-11eb-9820-b974aeca1917.png)
+ ![result](https://raw.githubusercontent.com/HUANGZiyin1/PolyuSCC/main/Sequence.png)
  
 
  ## 2. Dataset
