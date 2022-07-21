@@ -2,7 +2,7 @@
 
 ## 0. Introduction
 
-- SC sequences were gathered from other sources [1], [2], or self-capture to form our dataset, “PolyUSCC”.
+- SC sequences were gathered from other sources [1], [2], or self-capture from our dataset, “PolyUSCC”.
 - Thirty-four HEVC standard video sequences of various resolutions (1920×1080, 1680×1050, 1280×720) are adopted.These sequences can be divided into three types: text and graphics with motion (TGM), animation (A), and mixed (M) content.
 - The dataset consists of three parts:
   - First, to guarantee data reliability and availability, half of the dataset (15 sequences) are provided from the JCT-VC [1] but not included in CTC [3].
